@@ -1,7 +1,7 @@
 import socket
 import pandas as pd
 
-HOST = '10.5.247.136'
+HOST = '192.168.84.81'
 PORT = 42051
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.bind((HOST, PORT))

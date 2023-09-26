@@ -1,11 +1,11 @@
 from tkinter import *
 from tkinter import messagebox
-from Client import *
+from client import *
 from tkinter import ttk
 from tkinter.ttk import Radiobutton
 
 rt = Tk()
-rt.title("Zettabyte")
+rt.title("CN")
 rt.geometry("1500x800")
 fnt = ("Consolas", 15)
 fnt1= ("Consolas", 20)

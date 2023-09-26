@@ -1,7 +1,7 @@
 import socket
 from tkinter import messagebox
 import pandas as pd
-HOST = '10.5.247.136'
+HOST = '192.168.84.81'
 PORT = 42051
 
 def ThrowError():
